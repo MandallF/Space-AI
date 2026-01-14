@@ -35,7 +35,7 @@ Ayriyeten tekrar oynayarak kendi skorunuzu geçmeye hatta AI oynayışını da d
 <img width="997" height="673" alt="image" src="https://github.com/user-attachments/assets/29934e94-f077-4d07-b31d-175eb60e9614" />
 Kaybederseniz böyle bir ekran görüyorsunuz ancak üzülmeyin tekrar başlamak için "R" tuşuna basmanız yeterli.
 
-
+------------------------------------------------------
 *Yapay Zeka Mimarisi ve Teknik Detaylar
 1. Kullanılan Yöntem
 Ajan, Çok Katmanlı Algılayıcı (Multilayer Perceptron) mimarisine sahip bir Yapay Sinir Ağı kullanmaktadır. Eğitim süreci, oyuncunun klavye girdilerini (Input.GetAxisRaw) referans alan İmitasyon Öğrenmesi (Imitation Learning) ile gerçekleştirilir.
@@ -60,8 +60,9 @@ GameData.cs: Sahneler arası (Menü -> Oyun) veri ve AI durumu aktarımı.
 
 ***Önemli Not (Platform Kısıtlamaları)
 WebGL platformundaki tarayıcı güvenlik kısıtlamaları (Sandbox) nedeniyle, oyunun canlı sürümünde ağırlık verileri Resources klasörü altından TextAsset olarak yüklenmektedir.
-Ancak projenin kaynak kodlarında ve GitHub dizininde ağırlık dosyası harici bir varlık olarak bağımsızlığını korumaktadır.
+Ancak projenin kaynak kodlarında ve GitHub dizininde ağırlık dosyası harici bir varlık olarak (ai-weights.json) bağımsızlığını korumaktadır.
 
+----------------------------------------------------------
 -Ad Soyad: Kubilay İnanç
 -Öğrenci No: 22360859047
 -Ders: Oyun Programlama
