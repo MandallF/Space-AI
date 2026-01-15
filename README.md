@@ -2,6 +2,8 @@
 
 -Öncelikle bu oyun, https://github.com/MandallF/MandalF-Oyun-Projesi projesinin devamıdır. İlk haline linkten ulaşabilirsiniz. Proje için hala geliştirmek istediğim konular mevcut ileride tekrar güncelleme yapmayı düşünüyorum.
 
+-Projenin şuanki dosyalarını indirmek için .rar dosyasını indirin ve AI'ın düzgün çalışması için ağırlık .json veya .txt dosyasını indirip resources klasörüne koyun. Kendiniz eğitmek istiyorsanız bir oyuna başlayın ve ilerledikçe AI sizin oynayışınızı izleyip öğrenecek, bu ağırlığı kaydetmek içinse "K" tuşuna basmanız yeterli. 
+
 -Bu proje, bir yapay sinir ağının (Neural Network) oyuncu hareketlerini taklit ederek (Imitation Learning) engellerden kaçmayı öğrendiği bir eğitim çalışmasıdır. Proje, temel yapay zeka prensiplerini ve WebGL platformu üzerindeki veri yönetimini sergilemektedir.
 
 ***Oyunu tarayıcı üzerinden hemen deneyebilirsiniz: https://mandalf.itch.io/spaceai
