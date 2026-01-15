@@ -1,4 +1,5 @@
 ***Space AI Oyunu
+-Öncelikle bu oyun, https://github.com/MandallF/MandalF-Oyun-Projesi projesinin devamıdır. İlk haline linkten ulaşabilirsiniz. Proje için hala geliştirmek istediğim konular mevcut ileride tekrar güncelleme yapmayı düşünüyorum.
 
 -Bu proje, bir yapay sinir ağının (Neural Network) oyuncu hareketlerini taklit ederek (Imitation Learning) engellerden kaçmayı öğrendiği bir eğitim çalışmasıdır. Proje, temel yapay zeka prensiplerini ve WebGL platformu üzerindeki veri yönetimini sergilemektedir.
 
